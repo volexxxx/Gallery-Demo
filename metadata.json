@@ -1,0 +1,7 @@
+{
+  "name": "iOS Style Gallery",
+  "description": "A lightweight, highly optimized, Apple-style minimal mobile gallery app with smooth animations, fast performance, and built-in basic photo editing tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
